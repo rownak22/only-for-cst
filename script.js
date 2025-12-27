@@ -6,7 +6,7 @@ const userInput = document.getElementById('user-input');
 const sendBtn = document.getElementById('send-btn');
 
 // 🔹 API key included (class testing use)
-const API_KEY = "AIzaSyBhJWBuw69PD5I2Hs2wJ2xZjO1h-XdGp0A"; // তোমার API key
+const API_KEY = "AIzaSyA7z0lHQaVV5RK7MyUyCTQI5_xGD8K1JE4"; // তোমার API key
 
 // Show/Hide chatbot
 helpBtn.addEventListener('click', () => {
